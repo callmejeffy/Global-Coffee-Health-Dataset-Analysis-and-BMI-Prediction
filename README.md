@@ -33,3 +33,5 @@ The dataset used in this project is the 'Global Coffee Health Dataset,' which in
 
 The analysis revealed insights into the distribution of lifestyle factors and their correlations. After preprocessing and training, the Kernel Ridge Regression model achieved the lowest Mean Absolute Percentage Error (MAPE) of approximately 13.05%, suggesting it was the best-performing model among those tested for BMI prediction on this dataset.
 
+<img width="1758" height="240" alt="Model Performance" src="https://github.com/user-attachments/assets/3016143a-4925-44b2-a146-21360b7fe4de" />
+
